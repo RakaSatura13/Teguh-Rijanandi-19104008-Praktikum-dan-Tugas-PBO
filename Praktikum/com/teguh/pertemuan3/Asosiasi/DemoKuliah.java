@@ -1,4 +1,4 @@
-package com.rifqi.pertemuan3.Praktikum.Asosiasi;
+package com.teguh.pertemuan3.Asosiasi;
 
 public class DemoKuliah {
     public static void main(String[] args) {

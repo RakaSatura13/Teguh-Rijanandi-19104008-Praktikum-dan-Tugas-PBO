@@ -1,4 +1,4 @@
-package com.rifqi.pertemuan3.Praktikum.Komposisi;
+package com.teguh.pertemuan3.Komposisi;
 
 public class Monitor {
     private String merek;

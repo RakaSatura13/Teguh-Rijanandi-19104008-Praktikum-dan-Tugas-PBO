@@ -1,4 +1,4 @@
-package com.rifqi.pertemuan3.Praktikum.Agregasi;
+package com.teguh.pertemuan3.Agregasi;
 
 import java.util.ArrayList;
 import java.util.List;

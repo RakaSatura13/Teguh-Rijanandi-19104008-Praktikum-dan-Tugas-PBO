@@ -1,4 +1,4 @@
-package com.rifqi.pertemuan3.Praktikum.Komposisi;
+package com.teguh.pertemuan3.Komposisi;
 
 public class DemoComputer {
     public static void main(String[] args) {

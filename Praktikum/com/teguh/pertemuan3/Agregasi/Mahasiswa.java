@@ -1,4 +1,4 @@
-package com.rifqi.pertemuan3.Praktikum.Agregasi;
+package com.teguh.pertemuan3.Agregasi;
 
 public class Mahasiswa {
     private String nama;
