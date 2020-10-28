@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc153ca7-4aa3-420b-9115-d9aa4311cfa1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul4/Employee/Commision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul4/Employee/Employee_Init.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul4/Employee/Project_planner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul4/Employee/Salaired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul4/com/teguh/modul4/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/Commision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/Employee_Init.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/Project_planner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee/Salaired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/teguh/modul4/main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jV8o9D3CedTx0MVQPLZacpuUXs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Praktikum" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc153ca7-4aa3-420b-9115-d9aa4311cfa1" name="Default Changelist" comment="" />
+      <created>1603878075533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603878075533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603878099177">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1603878099177" />
+  </component>
+</project>
